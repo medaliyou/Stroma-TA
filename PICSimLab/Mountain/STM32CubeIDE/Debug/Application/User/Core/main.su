@@ -1,0 +1,4 @@
+main.c:70:5:LOG_INFO	272	static
+main.c:93:5:main	56	static
+main.c:242:6:SystemClock_Config	72	static
+main.c:280:6:Error_Handler	4	static,ignoring_inline_asm

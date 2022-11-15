@@ -1,0 +1,5 @@
+BSP_BMP280_Ex.c:28:7:bmp280ReadShort	24	static
+BSP_BMP280_Ex.c:35:15:bmp280ReadLong	24	static
+BSP_BMP280_Ex.c:44:6:bmp280WriteByte	16	static
+BSP_BMP280_Ex.c:50:6:bmp280Convert	72	static
+BSP_BMP280_Ex.c:83:6:BMP280_Init	8	static

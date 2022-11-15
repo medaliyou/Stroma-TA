@@ -1,0 +1,15 @@
+BSP_BMP280.c:62:6:bmp280_init_default_params	16	static
+BSP_BMP280.c:72:13:read_register16	48	static
+BSP_BMP280.c:89:19:read_data	56	static
+BSP_BMP280.c:101:13:read_calibration_data	16	static
+BSP_BMP280.c:124:13:read_hum_calibration_data	24	static
+BSP_BMP280.c:143:12:write_register8	40	static
+BSP_BMP280.c:157:6:bmp280_read_id	16	static
+BSP_BMP280.c:178:6:bmp280_init	24	static
+BSP_BMP280.c:264:6:bmp280_force_measurement	24	static
+BSP_BMP280.c:278:6:bmp280_is_measuring	24	static
+BSP_BMP280.c:295:23:compensate_temperature	32	static
+BSP_BMP280.c:316:24:compensate_pressure	144	static
+BSP_BMP280.c:349:24:compensate_humidity	32	static
+BSP_BMP280.c:368:6:bmp280_read_fixed	56	static
+BSP_BMP280.c:406:6:bmp280_read_float	40	static

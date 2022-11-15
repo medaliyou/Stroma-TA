@@ -1,0 +1,11 @@
+BSP_I2C.c:18:19:BSP_I2C_Wait	4	static
+BSP_I2C.c:29:6:BSP_I2C_Notify	16	static
+BSP_I2C.c:54:19:BSP_I2C_ReadRegister16	40	static
+BSP_I2C.c:92:19:BSP_I2C_ReadData	48	static
+BSP_I2C.c:127:19:BSP_I2C_WriteRegister8	32	static
+BSP_I2C.c:144:19:BSP_I2C_Write	24	static
+BSP_I2C.c:161:19:BSP_I2C_Read	24	static
+BSP_I2C.c:177:19:BSP_I2C_WriteRead	32	static
+BSP_I2C.c:207:6:HAL_I2C_MasterTxCpltCallback	16	static
+BSP_I2C.c:212:6:HAL_I2C_MasterRxCpltCallback	16	static
+BSP_I2C.c:217:6:HAL_I2C_ErrorCallback	16	static
